@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
