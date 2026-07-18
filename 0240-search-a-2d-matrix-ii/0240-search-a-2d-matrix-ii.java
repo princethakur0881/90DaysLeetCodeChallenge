@@ -1,14 +1,20 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        if(matrix.length<=0)return false;
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[i].length;j++){
-                if(matrix[i][j]== target){
-                    return true;
-                }
+         int r=matrix.length-1;
+        int c=matrix[0].length-1;
+        int i=0;
+        while(i<=r && c>=0){
+            if(matrix[i][c]==target){
+                return true;
+            }
+            else if(matrix[i][c]>target){
+                c--;
+            }
+            else{
+                i++;
             }
         }
         return false;
-        
+
     }
 }
