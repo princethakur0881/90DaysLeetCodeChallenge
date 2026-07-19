@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
