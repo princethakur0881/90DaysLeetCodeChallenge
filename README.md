@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
