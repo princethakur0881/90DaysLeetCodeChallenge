@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
