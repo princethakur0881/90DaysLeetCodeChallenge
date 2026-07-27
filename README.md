@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
