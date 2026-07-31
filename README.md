@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
+| [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
+| [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
 |  |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0282-expression-add-operators](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
