@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
+| [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
+| [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
