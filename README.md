@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0593-valid-square) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
 |  |
@@ -212,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
