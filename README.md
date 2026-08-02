@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
+| [0679-24-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0679-24-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0593-valid-square) |
+| [0679-24-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0679-24-game) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0282-expression-add-operators](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
+| [0679-24-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0679-24-game) |
 ## Geometry
 |  |
 | ------- |
