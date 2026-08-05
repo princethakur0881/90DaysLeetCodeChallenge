@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
