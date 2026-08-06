@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
