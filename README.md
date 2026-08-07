@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
