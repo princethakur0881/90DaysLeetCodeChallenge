@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
