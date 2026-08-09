@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0263-ugly-number) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
