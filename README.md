@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
 | [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
