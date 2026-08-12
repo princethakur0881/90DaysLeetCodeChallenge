@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
+| [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
