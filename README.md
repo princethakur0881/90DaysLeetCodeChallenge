@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
