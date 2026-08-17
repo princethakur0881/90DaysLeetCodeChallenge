@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
+| [1563-stone-game-v](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
