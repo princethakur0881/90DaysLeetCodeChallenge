@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
+| [0338-counting-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
