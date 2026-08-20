@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0480-sliding-window-median](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0480-sliding-window-median) |
+| [0643-maximum-average-subarray-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
