@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1927-sum-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1563-stone-game-v](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
