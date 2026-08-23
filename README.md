@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
+| [0640-solve-the-equation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0640-solve-the-equation) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1927-sum-game) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0640-solve-the-equation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0640-solve-the-equation) |
 | [0679-24-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0679-24-game) |
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
+| [0640-solve-the-equation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0640-solve-the-equation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
@@ -470,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
