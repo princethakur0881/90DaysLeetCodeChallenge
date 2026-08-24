@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0480-sliding-window-median](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0480-sliding-window-median) |
