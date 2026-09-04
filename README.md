@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
@@ -551,5 +553,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
