@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
