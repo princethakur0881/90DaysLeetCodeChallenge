@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2390-removing-stars-from-a-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0640-solve-the-equation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0640-solve-the-equation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2390-removing-stars-from-a-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
