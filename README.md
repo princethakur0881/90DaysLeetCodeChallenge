@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -592,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
