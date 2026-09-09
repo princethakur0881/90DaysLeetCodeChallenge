@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
