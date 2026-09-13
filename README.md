@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
+| [0835-image-overlap](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
