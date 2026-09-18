@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
+| [0445-add-two-numbers-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
