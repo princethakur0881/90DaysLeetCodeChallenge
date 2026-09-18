@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
