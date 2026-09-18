@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
