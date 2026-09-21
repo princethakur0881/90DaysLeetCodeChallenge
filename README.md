@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
