@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0888-fair-candy-swap](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0888-fair-candy-swap](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0888-fair-candy-swap) |
+| [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0282-expression-add-operators](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0679-24-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0679-24-game) |
+| [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Geometry
 |  |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
+| [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
