@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0640-solve-the-equation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0640-solve-the-equation) |
+| [0709-to-lower-case](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
