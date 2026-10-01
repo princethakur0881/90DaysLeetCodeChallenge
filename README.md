@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1927-sum-game) |
