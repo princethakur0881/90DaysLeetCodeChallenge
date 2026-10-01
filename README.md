@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0640-solve-the-equation) |
 | [0709-to-lower-case](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
+| [0856-score-of-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
