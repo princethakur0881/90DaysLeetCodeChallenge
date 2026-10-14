@@ -1,16 +1,5 @@
 class Solution {
     public String maxSumOfSquares(int num, int sum) {
-         if (sum > 9 * num) return "";
-
-        StringBuilder ans = new StringBuilder();
-
-        // Step 2: fill every position from left to right
-        while (num-- > 0) {
-            int digit = Math.min(9, sum);   // take as much as we can, at most 9
-            ans.append(digit);
-            sum -= digit;
-        }
-
-        return sum == 0 ? ans.toString() : "";
+         return sum > 9 * num ? "" : ("9".repeat(sum / 9) + sum % 9 + "0".repeat(num)).substring(0, num);
     }
 }
