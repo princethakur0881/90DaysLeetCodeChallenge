@@ -1,35 +1,29 @@
 class Solution {
     public int minSwaps(int[] nums) {
-        int n = nums.length;
-        Integer[] sorted = new Integer[n];
-        for (int i = 0; i < n; i++) sorted[i] = nums[i];
-        Arrays.sort(sorted, (a, b) -> {
-            int sa = digitSum(a), sb = digitSum(b);
-            if (sa != sb) return sa - sb;
-            return a - b;
-        });
-        Map<Integer, Integer> pos = new HashMap<>();
-        for (int i = 0; i < n; i++) pos.put(sorted[i], i);
-        boolean[] visited = new boolean[n];
-        int cycles = 0;
+         int n = nums.length;
+        long[] keyed = new long[n];  // digit sum in the high bits, value in the low bits
+        for (int i = 0; i < n; i++) keyed[i] = (long) digitSum(nums[i]) << 32 | nums[i];
+        Arrays.sort(keyed);
+        Map<Integer, Integer> rank = new HashMap<>();  // final position of each value
+        for (int k = 0; k < n; k++) rank.put((int) keyed[k], k);
+        int[] home = new int[n];  // where the value at each position must go
+        for (int i = 0; i < n; i++) home[i] = rank.get(nums[i]);
+
+        int swaps = 0;
         for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                cycles++;
-                int j = i;
-                while (!visited[j]) {
-                    visited[j] = true;
-                    j = pos.get(nums[j]);
-                }
+            while (home[i] != i) {  // send the value at i home, take that spot's value in exchange
+                int j = home[i];
+                home[i] = home[j];
+                home[j] = j;
+                swaps++;
             }
         }
-        return n - cycles;
+        return swaps;
     }
+
     private int digitSum(int x) {
         int s = 0;
-        while (x > 0) {
-            s += x % 10;
-            x /= 10;
-        }
+        for (; x > 0; x /= 10) s += x % 10;
         return s;
     }
 }
