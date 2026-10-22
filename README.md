@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0393-utf-8-validation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0414-third-maximum-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0480-sliding-window-median](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
