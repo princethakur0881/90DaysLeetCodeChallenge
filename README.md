@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0553-optimal-division](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0553-optimal-division](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0593-valid-square) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0553-optimal-division](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
