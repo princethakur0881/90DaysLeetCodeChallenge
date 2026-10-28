@@ -1,31 +1,29 @@
 class Solution {
-   static final int LIM = 1 << 10;
-    public int minCost(int[][] A) {
-        int m = A.length, n = A[0].length;
-        Set<Integer>[] dp = new HashSet[n];
-        
-        dp[0] = new HashSet<>();
-        dp[0].add(A[0][0]);
+ private int ans;
+    private boolean[][][] memo;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == 0 && j == 0) continue;
+    public int minCost(int[][] grid) {
+        int startVal = grid[0][0];
+        ans = Integer.MAX_VALUE;
+        memo = new boolean[grid.length][grid[0].length][1024];
+        dfs(grid, 0, 0, 0, grid.length, grid[0].length);
+        return ans;
+    }
 
-                Set<Integer> prev = new HashSet<>();
-                if (i > 0) prev.addAll(dp[j]);
-                if (j > 0) prev.addAll(dp[j - 1]);
-
-                Set<Integer> curr = new HashSet<>();
-                for (int k : prev)
-                    curr.add(k ^ A[i][j]);
-
-                dp[j] = curr;
-            }
+    private void dfs(int[][] grid, int i, int j, int xor, int m, int n) {
+        xor ^= grid[i][j];
+        if (ans == 0)
+            return;
+        if (memo[i][j][xor])
+            return;
+        memo[i][j][xor] = true;
+        if (i == m - 1 && j == n - 1) {
+            ans = Math.min(ans, xor);
+            return;
         }
-
-        for (int k = 0; k < LIM; k++)
-            if (dp[n - 1].contains(k)) return k;
-
-        return 0;
+        if (i + 1 < m)
+            dfs(grid, i + 1, j, xor, m, n);
+        if (j + 1 < n)
+            dfs(grid, i, j + 1, xor, m, n);
     }
 }
