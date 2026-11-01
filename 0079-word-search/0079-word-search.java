@@ -1,66 +1,60 @@
 class Solution {
-	public boolean backtrack(
-		char[][] board,
-		int row, int col,
-		int index,
-		String word,
-		boolean[][] visit
-	) {
-		int m = board.length;
-		int n = board[0].length;
+    public boolean exist(char[][] board, String word) {
+        int m = board.length;
+        int n = board[0].length;
+        char[] w = word.toCharArray();
 
-		if (index == word.length())
-			return true;
+        int[] boardFreq = new int[128];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                boardFreq[board[i][j]]++;
+            }
+        }
 
-		if (row < 0 || col < 0 || row >= m || col >= n)
-			return false;
+        int[] wordFreq = new int[128];
+        for (char c : w) {
+            wordFreq[c]++;
+            if (wordFreq[c] > boardFreq[c]) {
+                return false;
+            }
+        }
 
-		if (board[row][col] != word.charAt(index))
-			return false;
+        if (boardFreq[w[w.length - 1]] < boardFreq[w[0]]) {
+            for (int i = 0, j = w.length - 1; i < j; i++, j--) {
+                char temp = w[i];
+                w[i] = w[j];
+                w[j] = temp;
+            }
+        }
 
-		if (visit[row][col])
-			return false;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] == w[0] && dfs(board, w, i, j, 0)) {
+                    return true;
+                }
+            }
+        }
 
-		visit[row][col] = true;
+        return false;
+    }
 
-		boolean left = backtrack(
-			board, row, col - 1, index + 1, word, visit);
-		if (left)
-			return true;
+    private boolean dfs(char[][] board, char[] word, int r, int c, int idx) {
+        if (idx == word.length) {
+            return true;
+        }
 
-		boolean right = backtrack(
-			board, row, col + 1, index + 1, word, visit);
-		if (right)
-			return true;
+        if (r < 0 || r >= board.length || c < 0 || c >= board[0].length || board[r][c] != word[idx]) {
+            return false;
+        }
 
-		boolean up = backtrack(
-			board, row - 1, col, index + 1, word, visit);
-		if (up)
-			return true;
+        char temp = board[r][c];
+        board[r][c] = '#';
 
-		boolean down = backtrack(
-			board, row + 1, col, index + 1, word, visit);
-		if (down)
-			return true;
+        boolean found = dfs(board, word, r + 1, c, idx + 1)
+                     || dfs(board, word, r - 1, c, idx + 1)
+                     || dfs(board, word, r, c + 1, idx + 1)
+                     || dfs(board, word, r, c - 1, idx + 1);
 
-		visit[row][col] = false;
-
-		return false;
-	}
-
-	public boolean exist(char[][] board, String word) {
-		int m = board.length;
-		int n = board[0].length;
-
-		boolean[][] visit = new boolean[m][n];
-
-		for (int i = 0; i < m; i++) {
-			for (int j = 0; j < n; j++) {
-				if (backtrack(board, i, j, 0, word, visit))
-					return true;
-			}
-		}
-
-		return false;
-	}
-}
+        board[r][c] = temp;
+        return found;
+    }}
