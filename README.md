@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0679-24-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
