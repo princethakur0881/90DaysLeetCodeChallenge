@@ -872,4 +872,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
