@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 ## Segment Tree
 |  |
 | ------- |
@@ -945,4 +949,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1114-print-in-order) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
