@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0587-erect-the-fence) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princethakur0881/90DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
